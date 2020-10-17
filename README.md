@@ -1,6 +1,6 @@
 # hello-world
 GitHub Guide First Repository 
 
-Hello monkeys!
+Hello humans!
 
 Raghav here.
